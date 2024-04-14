@@ -18,5 +18,4 @@ Throughout the subsetting and predicting phases, the analysis revealed interesti
 
 The analysis highlights the richness and diversity of the board game realm, offering opportunities for discovery, connection, and escapism across various backgrounds and interests.
 
-Getting Started
 To explore this EDA and delve into the world of board games, simply open the provided Python notebook file(s) in your preferred environment.
