@@ -1,15 +1,23 @@
-## Exploratory data analysis on the world of boardgames
-In this Exploratory data analysis I have explored the world of boardgames and provided significant insights for an imaginary future bar owner in his endeavor for opening a bar that includes boardgames and bar.
-The EDA is seperated to 3 parts: Evaluating, Subsetting, and Predicting.
+###Exploratory Data Analysis: The World of Board Games
+This project is an exploratory data analysis (EDA) on the world of board games, aimed at providing valuable insights for a hypothetical future bar owner who plans to incorporate board games into their establishment. The analysis is divided into three main parts: Evaluation, Subsetting, and Predicting.
 
-Evaluation: The data I've used includes 21631 boardgames from 3500 BCE up untill 2019, after thorough manual and visual graphs checks I've concluded that the Dataset is intact and useful.
-Subsetting: I've subsetted the DataFrame to various factors to conclude which games in the DataFrame would be best to purchase for the boardgame bar, what boardgames are a must to have on the initial opening of the bar.
-Predicting: I've looked for trends, correlations and predictions to ensure the EDA as futureproof and longlasting as possible for Mr. Barman to use in the years to come.
+##Dataset
+The dataset used in this analysis contains information on 21,631 board games spanning from 3500 BCE to 2019. The data was thoroughly checked manually and through visual graphs to ensure its integrity and usefulness.
 
-Both the subsetting and prediction parts were both intresting and suprising for me, a boardgame enthusiast, to explore.
-The world of boardgames is so vast and intriguing, and spreads well beyond the popular and known monopoly, checkers, backgammon, jenga and such.
+##Analysis
+Evaluation
+In the evaluation phase, the dataset was assessed to ensure its completeness and suitability for the analysis.
 
-I believe there's much to explore in this realm of boardgames, always something new to discover and to connect over.
-In this digital world sitting down to connect and escape reality together across all differences, something invaluable for our day to day lives.
+##Subsetting
+The subsetting phase involved filtering the dataset based on various factors to determine which games would be best suited for the board game bar. This phase also aimed to identify essential games to have on hand for the bar's initial opening.
 
-Dig in to this EDA and discover a world unknown.
+##Predicting
+The predicting phase focused on identifying trends, correlations, and making predictions to ensure the longevity and future-proofing of the insights derived from the analysis. This phase aimed to provide the bar owner with a long-lasting and adaptable strategy for curating their board game collection.
+
+##Insights and Discoveries
+Throughout the subsetting and predicting phases, the analysis revealed interesting and surprising insights into the vast and intriguing world of board games, extending far beyond popular and well-known games like Monopoly, Checkers, Backgammon, and Jenga.
+
+The analysis highlights the richness and diversity of the board game realm, offering opportunities for discovery, connection, and escapism across various backgrounds and interests.
+
+Getting Started
+To explore this EDA and delve into the world of board games, simply open the provided Python notebook file(s) in your preferred environment.
